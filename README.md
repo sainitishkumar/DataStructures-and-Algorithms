@@ -1,3 +1,3 @@
 # DataStructures-and-Algorithms
 
-Displaying the code and time complexity graphs for different types of sorting namely quick, insertion and selection sort.
+Time complexity graphs and some implimentation of Popular data structures in C++
